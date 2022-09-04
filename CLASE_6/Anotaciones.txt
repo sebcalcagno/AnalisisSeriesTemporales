@@ -5,3 +5,26 @@ En esta clase, fui solo
 https://www.youtube.com/watch?v=twHaVc_H7ik
 https://github.com/derekbanas/TimeSeriesAnalysis/blob/main/Time%20Series%20Forecasting%208.ipynb
 https://github.com/derekbanas/TimeSeriesAnalysis/blob/main/gdp-data.csv
+
+
+Ejercicio 1 : https://www.youtube.com/watch?v=SPkfPLpijJQ&list=PLs3Si3L7f5OoE9mdsJUsAFcSPPyyuJ4H0&index=29
+SARIMAX =
+https://www.youtube.com/watch?v=FgGzZOGg-8c
+https://github.com/derekbanas/TimeSeriesAnalysis/blob/main/ForecastTut6and7.ipynb
+
+DATASET : https://datos.gob.ar/series/api/series/?ids=11.3_VMATC_2004_M_12
+
+
+https://stackoverflow.com/questions/71758726/auto-arima-parameters-for-correct-forecasting
+
+
+https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html
+
+https://machinelearningmastery.com/time-series-forecasting-performance-measures-with-python/
+
+
+# Transformacion de Box Cox
+# https://www.youtube.com/watch?v=2lyrjUu1X_I
+# https://koalatea.io/python-box-cox/
+# https://www.geeksforgeeks.org/box-cox-transformation-using-python/#:~:text=Formally%2C%20A%20Box%20cox%20transformation,tests%20than%20we%20could%20have.&text=is%20said%20to%20be%20best,curve%20to%20a%20normal%20curve.
+
