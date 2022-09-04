@@ -1,2 +1,7 @@
 Comentarios clase 6 .
 En esta clase, fui solo
+
+
+https://www.youtube.com/watch?v=twHaVc_H7ik
+https://github.com/derekbanas/TimeSeriesAnalysis/blob/main/Time%20Series%20Forecasting%208.ipynb
+https://github.com/derekbanas/TimeSeriesAnalysis/blob/main/gdp-data.csv
